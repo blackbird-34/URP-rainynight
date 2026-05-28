@@ -81,6 +81,11 @@ MonoBehaviour:
       type: 3}
     objectMotionVector: {fileID: 4800000, guid: 7b3ede40266cd49a395def176e1bc486,
       type: 3}
+    TuanjieGIBuildDepthPyramid: {fileID: 7200000, guid: 573ab9bd91e4414e82f0f6861fd61ebe,
+      type: 3}
+    TuanjieGIGPUCopy: {fileID: 7200000, guid: 33c7a4fa12ef36943bcbb68a2b92097b, type: 3}
+    TuanjieGICopyTexture: {fileID: 7200000, guid: 5fdc3e708a26487c85a8d75ac461b28d,
+      type: 3}
     GIMotionVector: {fileID: 4800000, guid: 8dd6fbbf59aebb74f9801a17d14b652c, type: 3}
     gpuMotionVector: {fileID: 4800000, guid: 4d40ad15f09d31f498b06194570be767, type: 3}
     stencilSplat: {fileID: 4800000, guid: 4361274285192ec4e8d9fd73c2aed78a, type: 3}
