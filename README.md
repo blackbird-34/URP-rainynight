@@ -74,4 +74,11 @@ Assets/
 - **v2.0**（2025.05）：初始版本，完成核心玩法、存档、规范代码。
 
 
+<img width="2558" height="1599" alt="屏幕截图 2026-05-28 195614" src="https://github.com/user-attachments/assets/133ccf46-e17d-417a-b3e5-364acf18d3de" />
+<img width="2559" height="1599" alt="屏幕截图 2026-05-28 195724" src="https://github.com/user-attachments/assets/3ef7d8f2-79a0-447b-a622-f4bf7a40ecdc" />
+<img width="2559" height="1599" alt="屏幕截图 2026-05-28 195918" src="https://github.com/user-attachments/assets/3e3eee75-3f99-42d0-9558-f47b0ce69f18" />
+<img width="1512" height="805" alt="屏幕截图 2026-05-07 050511" src="https://github.com/user-attachments/assets/eea26421-c017-45d4-9378-cf8e2b4a4733" />
+
+
+
 
